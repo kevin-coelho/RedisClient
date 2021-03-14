@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chalk": "^4.1.0",
+    "ioredis": "^4.23.0",
+    "joi": "^17.4.0",
+    "redlock": "^4.2.0"
+  },
+  "name": "@kevin-coelho/redisclient",
+  "description": "",
+  "version": "1.0.0",
+  "main": "RedisClient.js",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-coelho/RedisClient.git"
+  },
+  "author": "Kevin Coelho <kevin@kevincoelho.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin-coelho/RedisClient/issues"
+  },
+  "homepage": "https://github.com/kevin-coelho/RedisClient#readme"
+}
