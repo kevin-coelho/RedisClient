@@ -64,3 +64,6 @@ await Promise.join(
     client.protectedMutation(resourceKey, ttl, mutationFn2, handleFailedLockRelease(2)),  
 );
 ```
+
+## Roadmap
+- More features added as needed!
