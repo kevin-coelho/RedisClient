@@ -7,7 +7,7 @@
   },
   "name": "@kevin-coelho/redisclient",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "RedisClient.js",
   "devDependencies": {
     "eslint": "^7.22.0",
